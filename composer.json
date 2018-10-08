@@ -1,0 +1,16 @@
+{
+    "name": "luoxulx/vultr-api",
+    "description": "test vultr api test",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "longkui",
+            "email": "longkuilx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
