@@ -1,19 +1,11 @@
 {
-    "name": "luoxulx/vultr-api",
-    "keywords": ["vultr", "api", "vultr api"],
-    "description": "test vultr api test",
-    "type": "project",
-    "require": {
-        "php": ">=7.1",
-        "guzzlehttp/guzzle": "^6.3"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "longkui",
-            "email": "longkuilx@gmail.com",
-            "homepage": "https://github.com/luoxulx"
-        }
-    ],
-    "minimum-stability": "dev"
+    "name": "luoxulx/ltr-helper",
+    "description": "xxxtest",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"Hello\\": "src/"
+		 }
+	}
 }
